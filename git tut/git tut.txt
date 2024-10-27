@@ -1,0 +1,12 @@
+1-go to the folder first 
+2- git init
+3- git remote add origin <SSH key or HTTP key>
+4- git add . // add all file / git add "particular file name "
+5- git commit -m "commit something aboute your work"
+6- git push origin main/master
+
+
+$ git config --global init.defaultBranch main // it is used for change default branch name 
+
+$ git remote set-url origin https://github.com/Prabhanjan-17p/gitStudyForYou.git // it is for update the branch URL
+
