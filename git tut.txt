@@ -11,3 +11,4 @@ $ git config --global init.defaultBranch main // it is used for change default b
 
 $ git remote set-url origin https://github.com/Prabhanjan-17p/gitStudyForYou.git // it is for update the branch URL
 
+Git All
